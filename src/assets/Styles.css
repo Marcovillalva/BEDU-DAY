@@ -1,0 +1,23 @@
+.MainContLayout {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  width: 100%;
+  height: 1900px;
+  background-color: #F5F5F5; }
+
+.MainContHeader {
+  margin: 100px;
+  display: flex;
+  width: 100%;
+  height: 150px;
+  background-color: #141B4D;
+  color: white; }
+
+.MainContFooter {
+  margin: 0px;
+  display: flex;
+  width: 100%;
+  height: 150px;
+  background-color: #141B4D;
+  color: white; }

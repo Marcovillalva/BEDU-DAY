@@ -8,7 +8,7 @@ import Header from './Header';
 class Layout extends Component {
     render(){
         return(
-            <div>
+            <div className="MainContLayout">
                 <Header/>
                 <Footer/>
             </div>

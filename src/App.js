@@ -1,10 +1,11 @@
 import React from 'react';
+import Layout from './components/Layout/Index';
 
 
 function App() {
   return (
     <div >
-      Hola que puta mierda es esto // primer commit
+      <Layout/>
     </div>
   );
 }

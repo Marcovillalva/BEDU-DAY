@@ -12,8 +12,8 @@ class Layout extends Component {
         return(
             <div className="MainContLayout">
                 <Header/>
-                <Footer/>
                 <Login/>
+                <Footer/>
             </div>
         );
     }  

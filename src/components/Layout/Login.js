@@ -8,9 +8,7 @@ class Login extends Component {
         return (
             <div className="loginCont">
                 <div>
-                                
-LOGIN
-                                
+                                                                 
                 </div>
             </div>
         );

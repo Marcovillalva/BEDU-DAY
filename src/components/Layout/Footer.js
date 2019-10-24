@@ -4,7 +4,7 @@ class Footer extends Component {
     render() {
         return (
             <div className="MainContFooter">
-                Footer
+                © 2019 Uxmal Stream
             </div>
         );
     }

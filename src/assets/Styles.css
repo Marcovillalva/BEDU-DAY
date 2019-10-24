@@ -8,9 +8,34 @@
 .MainContHeader {
   display: flex;
   flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
   width: 100%;
-  height: 80px;
+  height: 120px;
   background-color: #141B4D;
+  color: white; }
+
+.logo {
+  display: flex;
+  margin: 0px 0px 0px 50px;
+  width: 100px;
+  height: 100px;
+  background-image: url(./imgs/logouxm.png); }
+
+.menu {
+  background-color: #141B4D;
+  margin: 0px 50px 0px 0px;
+  width: 300px;
+  height: 60px;
+  background-image: none;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center; }
+
+.menu > div {
   color: white; }
 
 .MainContFooter {
@@ -34,3 +59,12 @@
   width: 450px;
   height: 300px;
   background-color: whitesmoke; }
+
+.sectionMainCont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 1000px;
+  background-color: rgba(245, 245, 245, 0.219);
+  color: black; }

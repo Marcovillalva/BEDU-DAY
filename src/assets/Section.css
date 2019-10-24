@@ -1,0 +1,8 @@
+.sectionMainCont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 1000px;
+  background-color: rgba(245, 245, 245, 0.219);
+  color: black; }

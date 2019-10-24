@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import Footer from './Footer';
 import Header from './Header';
 import Login from './Login';
+import Section from './Section';
 
 
 
@@ -12,7 +13,7 @@ class Layout extends Component {
         return(
             <div className="MainContLayout">
                 <Header/>
-                <Login/>
+                <Section/>
                 <Footer/>
             </div>
         );

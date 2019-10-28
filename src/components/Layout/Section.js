@@ -15,7 +15,7 @@ class Section extends Component {
                         <p><strong>¡Conoce Nuestros Servicios!</strong></p>
                     </div>
                     <div className="contDos">
-                        <div className="vidsCont"><p>Ten control en todo momento y cambia tus playlists en tiempo real</p></div>
+                        <div className="vidsCont"><p><strong>Musica Ambiental</strong></p><p>Playlist personalizados por horarios basados en tu marca y perfil de tus clientes</p></div>
                         <div className="vidsCont"><p>Mayor interactividad en tus pantallas para llamar la atencion de tus clientes logrando un mejor impacto en tu comunnicacion</p></div>
                         <div className="vidsCont"><p>Administra el tiempo de tus pantallas de forma remota y en tiempo real</p></div>
                         <div className="vidsCont"><p>Genera el ambiente que necesitas para aumentar el tiempo de permanencia</p></div>

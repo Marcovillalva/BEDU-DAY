@@ -39,11 +39,13 @@ h1 p {
 
 .vidsCont {
   background-color: whitesmoke;
+  display: flex;
+  flex-wrap: wrap;
   margin: 10px;
   width: 200px;
   height: 200px;
-  border: solid 1px #141B4D; }
+  border: solid 1px #141B4D;
+  padding: 15px; }
 
 .vidsCont > p {
-  padding: 25px;
   text-align: justify; }

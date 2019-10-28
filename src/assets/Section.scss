@@ -46,16 +46,20 @@ h1 p{
 }
 .vidsCont {
     background-color:whitesmoke;
+    display: flex;
+    flex-wrap: wrap;
     margin: 10px;
     width: 200px;
     height: 200px;
     // border-radius: 100px;
     border: solid 1px #141B4D;
+    padding: 15px;
 }
-.vidsCont > p{
-    padding: 25px;
-    text-align: justify;
+.vidsCont > p {
+    
+    text-align: justify; 
 }    
+
 // .vidsCont {
 //     background-color: cadetblue;
 //     margin: 10px 10px 0px 0px;

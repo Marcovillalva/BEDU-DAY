@@ -1,9 +1,9 @@
 import React, {Component} from 'react';
-import Button from 'react-bootstrap/Button'; 
 
 
 
-class Login extends Component {
+
+class Servicios extends Component {
     render() {
         return (
             <div className="loginCont">
@@ -17,4 +17,4 @@ class Login extends Component {
 
 
 
-export default Login;
+export default Servicios;
